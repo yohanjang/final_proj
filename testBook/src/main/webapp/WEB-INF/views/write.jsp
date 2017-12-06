@@ -40,6 +40,7 @@
             <label for="publisher">출판사</label>
             <input type="text" id="publisher" name="publisher" />
         </div>
+        <div>그라제</div>
         <div>
             <label for="price">가격</label>
             <input type="text" id="price" name="price" />
